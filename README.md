@@ -1,2 +1,2 @@
-# pair_programming_example
+# Pair Programming Example
 This is the repo used to demo Pair Programming
