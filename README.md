@@ -13,13 +13,7 @@ This is the repo used to demo Pair Programming
 // isOdd(5);    // => true
 // isOdd(-17);  // => true
 
-function isOdd(num) {
-  if (num % 2 === 0) {
-    return false
-  } else {
-    return true
-  }
-}
+
 ```
 
 ### plusFive
@@ -33,9 +27,4 @@ function isOdd(num) {
 // plusFive(2);   // => 7
 // plusFive(-8);  // => -3
 //
-
-function plusFive(num) {
-  // your code here...
-  return (num + 5);
-}
 ```
