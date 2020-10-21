@@ -14,7 +14,11 @@ This is the repo used to demo Pair Programming
 // isOdd(-17);  // => true
 
 function isOdd(num) {
-  // your code here...
+  if (num % 2 === 0) {
+    return false
+  } else {
+    return true
+  }
 }
 ```
 
