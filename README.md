@@ -36,5 +36,6 @@ function isOdd(num) {
 
 function plusFive(num) {
   // your code here...
+  return (num + 5);
 }
 ```
